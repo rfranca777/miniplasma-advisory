@@ -1,5 +1,7 @@
-# MiniPlasma CVE-2020-17103 - Public Mitigation Advisory
+# MiniPlasma - Vulnerability Protection Advisory
 
-Technical advisory authored by Rafael França (Microsoft CSA, Customer Success Unit) regarding the MiniPlasma variant of CVE-2020-17103 affecting cldflt.sys. Sanitized public version.
+Technical mitigation advisory for the MiniPlasma variant of CVE-2020-17103 affecting the Windows Cloud Files Mini Filter Driver (cldflt.sys).
 
-[Download PDF](MiniPlasma-Advisory.pdf)
+Authored by Rafael França - Microsoft Cybersecurity Architect (CSA), Customer Success Unit (CSU).
+
+[Download Protection Advisory (PDF)](MiniPlasma-Mitigation-Protection-Advisory.pdf)
